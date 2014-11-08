@@ -16,6 +16,4 @@
 
   var server = net.createServer(socketHandle);
   server.listen(port);
-
-
 })();
